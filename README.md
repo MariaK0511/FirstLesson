@@ -1,2 +1,2 @@
 # FirstLesson
-Ferst Tasks
+First Tasks
